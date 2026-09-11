@@ -40,6 +40,7 @@ _pending_
 ```bash
 git clone https://github.com/cousc0us/melbourne-suburb-analytics.git
 cd melbourne-suburb-analytics
+mkdir -p data/raw data/processed
 pip install -r requirements.txt
 jupyter notebook
 ```
