@@ -9,8 +9,8 @@ The project is uses two notebooks: [`01_cleaning.ipynb`](https://github.com/cous
  
 ## Why I built it
  
-This is my first personal project, where I thought of combining the mathematical statistic skills (hypothesis testing, regression, confidence intervals) I already know with code for analysis.  
-Also wanted to learn the basics of cleaning data on a raw dataset.
+As my first personal project, I wanted to start with combining my mathematical statistic skills (hypothesis testing, regression, confidence intervals) with code for analysis.  
+I also wanted to learn the basics of cleaning data on a raw dataset.
  
 ## Tech stack
  
