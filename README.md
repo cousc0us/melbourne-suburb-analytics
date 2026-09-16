@@ -9,7 +9,7 @@ The project is uses two notebooks: [`01_cleaning.ipynb`](https://github.com/cous
  
 ## Why I built it
  
-As my first personal project, I wanted to apply my mathematical statistic skills in code, along with learning the basic of cleaning data.
+As my first personal project, I wanted to apply my mathematical statistic skills in code whille understanding the basics of cleaning data.
  
 ## Tech stack
  
